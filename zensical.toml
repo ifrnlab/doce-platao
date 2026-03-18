@@ -273,7 +273,9 @@ features = [
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
+[project.theme.icon]
+edit = "material/pencil"
+view = "material/eye"
 #logo = "lucide/smile"
 
 # ----------------------------------------------------------------------------
