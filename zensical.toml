@@ -31,6 +31,10 @@ site_url = "https://docs.platao.lab/"
 
 site_dir = "site"
 
+repo_url = "https://github.com/ifrnlab/doce-platao"
+edit_uri = "edit/main/docs"
+
+
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
@@ -249,6 +253,8 @@ features = [
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
     #"toc.integrate",
+    "content.action.edit", # Edit this page
+    "content.action.view"  # View source of this page
 ]
 
 # ----------------------------------------------------------------------------
