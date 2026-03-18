@@ -29,7 +29,7 @@ site_author = "Atlante"
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://docs.platao.lab/"
 
-site_dir = "site"
+# site_dir = "site"
 
 repo_url = "https://github.com/ifrnlab/doce-platao"
 edit_uri = "edit/main/docs"
